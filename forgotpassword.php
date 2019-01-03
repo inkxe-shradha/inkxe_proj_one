@@ -116,7 +116,7 @@ $process = new Controller();
                 <label for="exampleInputEmail1">Email address</label>
                 <input type="email" class="form-control"  name= "email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
             
-            <button type="submit" class="btn btn-primary1" style="margin:5px">Submit</button>
+            <button style="text-align:center" type="submit" class="btn btn-primary1" style="margin:5px">Submit</button>
         </form>
         
         </div>
